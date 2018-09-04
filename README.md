@@ -1,2 +1,4 @@
 # robotino_driver
-Driver Script for three omni wheeled robot, Robotino
+
+A ROS driver for three omni-wheeled robot, named Robotino.
+This script supposed to take a Twist message and move the robot according to incoming message.
